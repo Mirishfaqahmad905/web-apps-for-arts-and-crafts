@@ -1,0 +1,90 @@
+[
+     {
+         "id":1,
+         "product_name":"Kosai" ,
+          "image":"https://trcimages.nl/collection/collection_images/normal/2010/2010.0087.jpg",
+          "price":3000,
+          "rating":2.3,
+          "revie":2.2,
+           "descripttion":"This coat was acquired in early 2010 by Willem Vogelsang while stationed in Uruzgan, southern Afghanistan. The coat was given by the then district chief of the district of Dehrawud, who had promised to obtain such a coat when asked almost a year previously about this type of coat that was worn by an elderly gentleman in the same district. This type of coat is depicted in Mountstuart Elphinstone (1815), Pl. II"
+     },
+     {
+        "id":1,
+        "product_name":"Topi" ,
+         "image":"https://trc-leiden.nl/trc-digital-exhibition/index.php/afghan-dress/item/77-pashtun-dress#&gid=1&pid=2",
+         "price":3000,
+         "rating":2.3,
+         "revie":2.2,
+          "descripttion":"This coat was acquired in early 2010 by Willem Vogelsang while stationed in Uruzgan, southern Afghanistan. The coat was given by the then district chief of the district of Dehrawud, who had promised to obtain such a coat when asked almost a year previously about this type of coat that was worn by an elderly gentleman in the same district. This type of coat is depicted in Mountstuart Elphinstone (1815), Pl. II"
+    },
+     {
+         "id":3,
+          "product_name":"turban",
+           "image":"",
+           "price":400,
+           "rating":2.5,
+            "review":2.2,
+             "description":""
+     },
+      {
+         "id":5,
+          "product_name":"patan traditional pagri",
+           "image":"https://www.onlinehub.pk/image/cache/catalog/caps/tila-cap/kulla001/kulla-kulla001-700x700.jpg",
+            "price":1500,
+             "rating":2.2,
+              "description":"despription goes here "
+
+      },
+      {
+        "id":5,
+         "product_name":"Black Turban",
+          "image":"https://shameelkhan.com/wp-content/uploads/2020/01/Black-Turban-555x777.jpg",
+           "price":1500,
+            "rating":2.2,
+             "description":"The Royal Black Embroidered Turban by Shameel Khan is the right choice for the groom to make his day remarkable. Turban is readily available in size of four circumferences from 20 to 24 inches. Plus or minus half an inch may vary in measurement. There might be some color variation. "
+
+     },
+     {
+        "id":5,
+         "product_name":"Luxury Brown Kurta and Shalwa",
+          "image":"https://shameelkhan.com/wp-content/uploads/2022/12/Luxury-Brown-Kurta-and-Shalwar.jpg",
+           "price":2500,
+            "rating":2.2,
+             "description":"Luxury Brown Kurta and Shalwar for men are specially designed with soft cotton stuff that will keep you comfortable. This is easily washable and useable. "
+
+     },
+     {
+        "id":5,
+         "product_name":"kameez and shalwar",
+          "image":"https://shameelkhan.com/wp-content/uploads/2022/12/Brown-Kameez-and-Shalwar.jpg",
+           "price":2500,
+            "rating":2.2,
+             "description":"Kameez and Shalwar for men are made with washable fabric. The stuff is very soft and comfortable. It looks so amazing when you will wear it. This is especially for weddings sui "
+
+     },
+     {
+        "id":5,
+         "product_name":"Waistcoat",
+          "image":"https://shameelkhan.com/wp-content/uploads/2022/12/Golden-and-Red-Waistcoat.jpg",
+           "price":2500,
+            "rating":2.2,
+             "description":"Waistcoat Looks stylish in Shameel khan self embroidered waistcoat. Featuring a ban collar with a slim fit cut for a unique look. Embroidered self jamawar fabric to create an overall embellish appearance."
+
+     },
+      {
+         "id":9,
+          "product_name":"Maroon Embroidered Khussa",
+           "image":"https://shameelkhan.com/wp-content/uploads/2023/03/khussa.jpg",
+           "price":5000,
+           "rating":4.2,
+           "description":" Khussa by shameelkhan is a beautifully crafted traditional footwear. Made with high-quality leather and adorned with intricate embroidery work, this khussa is a perfect blend of style and comfort. The black base color is complemented by the vibrant maroon embroidery, which adds a pop of color to the design. The attention to detail in the embroidery work is evident in the delicate patterns and motifs. The khussa is finished with a sturdy sole that provides excellent grip and durability. This footwear is suitable for various occasions, such as weddings, festivals, or formal events, and can add an elegant touch to any outfit."
+      },
+        {
+                 "id":10,
+                  "product_name":"Waistcoat",
+                   "image":"https://uniworthshop.com/product/takkhayul-1paj-018-2a",
+                    "price":1400,
+                     "rating":230,
+                     "description":"erenity and exquisite brilliance. Add the perfect finishing touch to your ceremonial look in this Green waistcoat with off-white dark green motif embroidery. This premium quality wait coat features metallic off-white buttons for an enhanced surreal appeal."
+        }
+]

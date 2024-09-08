@@ -1,0 +1,481 @@
+[
+    {
+       "id":1,
+      "product_name": "Smartphone X",
+       "quantaty":4,
+      "price": "$699.99",
+      "description": "Experience the latest technology with Smartphone X. Powerful features, stunning camera, and long-lasting battery.",
+      "image": "https://m.media-amazon.com/images/I/61k5imDfesL.__AC_SX300_SY300_QL70_FMwebp_.jpg ",
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "I'm loving this phone! The camera quality is amazing and it's so fast.",
+          "author": "user123"
+        },
+        {
+          "rating": 5.0,
+          "comment": "Best smartphone I've ever owned. The display is gorgeous.",
+          "author": "techGuru"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "quantaty":4,
+      "product_name": "UltraBook Pro X",
+      "price": "$1299.99",
+      "description": "Experience unmatched performance with the UltraBook Pro X. Sleek design, powerful processor, and stunning display for productivity and entertainment.",
+      "image": "https://m.media-amazon.com/images/I/41hPbiXBsvL._SX300_SY300_QL70_FMwebp_.jpgp_.jpg",
+      "reviews": [
+        {
+          "rating": 4.9,
+          "comment": "This laptop is a beast! It handles all my tasks effortlessly, and the battery life is impressive.",
+          "author": "techSavvy"
+        },
+        {
+          "rating": 5.0,
+          "comment": "Worth every penny. The display is sharp, and it's so lightweight for its power.",
+          "author": "proDesigner"
+        }
+      ]
+    },    
+    {
+      "id":3,
+      "product_name": "Wireless Earbuds Pro",
+      "price": "$129.99",
+      "description": "Immerse yourself in music with our Wireless Earbuds Pro. Noise cancellation and premium sound quality.",
+      "image": "https://m.media-amazon.com/images/I/61J2bJ454iL._AC_SX425_.jpg",
+      "reviews": [
+        {
+          "rating": 4.8,
+          "comment": "These earbuds exceeded my expectations. The noise cancellation works like magic.",
+          "author": "musicLover"
+        },
+        {
+          "rating": 4.5,
+          "comment": "Great value for the price. Very comfortable to wear for long periods.",
+          "author": "activeUser"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "quantaty":4,
+      "product_name": "Fitness Tracker 3.0",
+      "price": "$79.99",
+      "description": "Achieve your fitness goals with our advanced Fitness Tracker 3.0. Monitor your activity, heart rate, and more.",
+      "image": "https://m.media-amazon.com/images/I/61bbxaYe3uL._AC_SX569_.jpg",
+      "reviews": [
+        {
+          "rating": 4.2,
+          "comment": "Helped me stay motivated on my fitness journey. The app is user-friendly.",
+          "author": "fitFreak"
+        },
+        {
+          "rating": 4.0,
+          "comment": "Accurate tracking and long battery life. Some additional exercise modes would be nice.",
+          "author": "healthEnthusiast"
+        }
+      ]
+    },
+    {
+      "id":10,
+       "product_name":"Waistcoat",
+        "image":"https://uniworthshop.com/product/takkhayul-1paj-018-2a",
+         "price":1400,
+          "rating":230,
+          "description":"erenity and exquisite brilliance. Add the perfect finishing touch to your ceremonial look in this Green waistcoat with off-white dark green motif embroidery. This premium quality wait coat features metallic off-white buttons for an enhanced surreal appeal."
+},
+    {
+      "id":5,
+      "quantaty":5,
+      "product_name": "Fashionable Backpack",
+      "price": "$49.95",
+      "description": "Stay stylish and organized with our Fashionable Backpack. Multiple compartments and durable design.",
+      "image": "https://m.media-amazon.com/images/I/81oNZMFe6QL._AC_UY500_.jpg",
+      "reviews": [
+        {
+          "rating": 4.7,
+          "comment": "I love how this backpack combines style and functionality. Perfect for daily use.",
+          "author": "trendSetter"
+        },
+        {
+          "rating": 4.3,
+          "comment": "Comfortable to carry, and the USB charging port is a game changer.",
+          "author": "onTheGo"
+        }
+      ]
+    },
+    {
+      "id":6,
+      "quantaty":6,
+      "product_name": "Cooking Masterclass Kit",
+      "price": "$149.00",
+      "description": "Unleash your inner chef with our Cooking Masterclass Kit. High-quality utensils, recipe book, and online tutorials.",
+      "image": "https://m.media-amazon.com/images/I/81dDLnZqsCL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "reviews": [
+        {
+          "rating": 5.0,
+          "comment": "Absolutely fantastic kit for beginners and experienced cooks alike. I'm learning so much!",
+          "author": "foodieChef"
+        },
+        {
+          "rating": 4.8,
+          "comment": "The utensils are top-notch. The recipe book has become my kitchen bible.",
+          "author": "culinaryExplorer"
+        }
+      ]
+    }, 
+    
+
+
+
+
+
+    {
+      "id":7,
+      "quantaty":7,
+        "product_name": "Floral Peshawari Chappal for Ladies",
+        "price": "$699.99",
+        "description": "this is pashtoni culture shalware and qamees",
+        "image": "https://seengar.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-25-at-1.02.07-PM-768x768.jpeg",
+        "reviews": [
+          {
+            "rating": 4.5,
+            "comment": "I'm loving this phone! The camera quality is amazing and it's so fast.",
+            "author": "user123"
+          },
+          {
+            "rating": 5.0,
+            "comment": "Best smartphone I've ever owned. The display is gorgeous.",
+            "author": "techGuru"
+          }
+        ]
+      },
+      {
+        "id":8,
+        "quantaty":8,
+        "product_name": "Trendy Textured Fabric Light Brown Double",
+       
+        "image": "https://seengar.com/wp-content/uploads/2021/03/9a.jpg",
+        "sub_image": "https://seengar.com/wp-content/uploads/2021/03/9e.jpg",
+        "sub_image3": "https://seengar.com/wp-content/uploads/2021/03/9b-720x720.jpg",
+        "price": 59.99,
+        "rating": 3.2
+      },
+      {
+        "id":9,
+        "quantaty":9,
+        "product_name": "Shoes for Men",
+  
+        "image": "https://seengar.com/wp-content/uploads/2021/12/Swat-Shawl-for-Men.jpg",
+        "sub_image": "https://seengar.com/wp-content/uploads/2021/12/swat-shall.jpg",
+        "sub_image3": "https://seengar.com/wp-content/uploads/2021/12/swat-shawl-720x960.jpg",
+        "price": 40.00,
+        "rating": 3.2
+      },
+      {
+        "id":10,
+        "quantaty":4,
+        "product_name": "SmartChef 2000",
+        "description": "Smart Kitchen Appliance",
+        "image": "https://m.media-amazon.com/images/I/61+TVrElkSL._AC_SY300_SX300_.jpg",
+        "price": 40,
+        "rating": 5
+      },
+      {
+        "id":11,
+        "quantaty":4,
+        "product_name": "Fashionable Canvas Backpack",
+        "description": "Multi-Pocket Travel Bag",
+        "image": "https://m.media-amazon.com/images/I/71CWNt3SkuL._AC_SY450_.jpg",
+        "price": 32,
+        "rating": 4.5
+      },
+      {
+        "id":12,
+        "quantaty":4,
+        "product_name": "LED Solar Garden Lights",
+        "description": "Outdoor Waterproof Path Lights",
+        "image": "https://m.media-amazon.com/images/I/71XK7dAv7qL.__AC_SY445_SX342_QL70_FMwebp_.jpg",
+        "price": 19.99,
+        "rating": 4.6
+      },
+      {
+        "id":13,
+        "quantaty":4,
+        "product_name": "Smartphone X",
+        "description": "Innovative Tech Gadget",
+        "image": "https://m.media-amazon.com/images/I/91EACAPLSqL._AC_SY355_.jpg",
+        "price": 20.99,
+        "rating": 4.8
+      },
+      {
+        "id":14,
+        "quantaty":4,
+        "product_name": "Smart Home Hub Pro",
+        "description": "Advanced Smart Home Device",
+        "image": "https://m.media-amazon.com/images/I/41tLwVK+u0S._SY355_.jpg",
+        "price": 3.00,
+        "rating": 4.5
+      },
+      {
+        "id":15,
+        "quantaty":4,
+        "product_name": "Shoes for Men",
+    
+        "image": "https://seengar.com/wp-content/uploads/2021/12/Swat-Shawl-for-Men.jpg",
+        "sub_image": "https://seengar.com/wp-content/uploads/2021/12/swat-shall.jpg",
+        "sub_image3": "https://seengar.com/wp-content/uploads/2021/12/swat-shawl-720x960.jpg",
+        "price": 40.00,
+        "rating": 3.2
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+      {   "id":16,
+      "quantaty":4,
+     
+        "product_name": "Floral Peshawari Chappal for Ladies",
+      
+        "image": "https://seengar.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-25-at-1.02.07-PM-768x768.jpeg",
+        "sub_image": "hhttps://seengar.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-15-at-11.56.24-AM-1.jpeg",
+        "sub_image3": "https://seengar.com/wp-content/uploads/2022/06/Peshawar-Chappal-for-Ladies-1-720x720.jpeg",
+        "price": 15.00,
+        "rating": 3.2
+      },
+      {   "id":17,
+      "quantaty":4,
+
+        "product_name": "Trendy Textured Fabric Light Brown Double",
+
+        "image": "https://seengar.com/wp-content/uploads/2021/03/9a.jpg",
+        "sub_image": "https://seengar.com/wp-content/uploads/2021/03/9e.jpg",
+        "sub_image3": "https://seengar.com/wp-content/uploads/2021/03/9b-720x720.jpg",
+        "price": 59.99,
+        "rating": 3.2
+      },
+      {
+        "id":18,
+      "quantaty":4,
+        "product_name": "UltraBook Pro X",
+        "price": "$1299.99",
+        "description": "Experience unmatched performance with the UltraBook Pro X. Sleek design, powerful processor, and stunning display for productivity and entertainment.",
+        "image": "https://m.media-amazon.com/images/I/41hPbiXBsvL._SX300_SY300_QL70_FMwebp_.jpgp_.jpg",
+        "reviews": [
+          {
+            "rating": 4.9,
+            "comment": "This laptop is a beast! It handles all my tasks effortlessly, and the battery life is impressive.",
+            "author": "techSavvy"
+          },
+          {
+            "rating": 5.0,
+            "comment": "Worth every penny. The display is sharp, and it's so lightweight for its power.",
+            "author": "proDesigner"
+          }
+        ]
+      },
+      {
+        "id":19,
+        "quantaty":4,
+        "product_name": "Wireless Earbuds Pro",
+        "price": "$129.99",
+        "description": "Immerse yourself in music with our Wireless Earbuds Pro. Noise cancellation and premium sound quality.",
+        "image": "https://m.media-amazon.com/images/I/61J2bJ454iL._AC_SX425_.jpg",
+        "reviews": [
+          {
+            "rating": 4.8,
+            "comment": "These earbuds exceeded my expectations. The noise cancellation works like magic.",
+            "author": "musicLover"
+          },
+          {
+            "rating": 4.5,
+            "comment": "Great value for the price. Very comfortable to wear for long periods.",
+            "author": "activeUser"
+          }
+        ]
+      },
+      {
+        "id":20,
+        "quantaty":4,
+        "product_name": "Fitness Tracker 3.0",
+        "price": "$79.99",
+        "description": "Achieve your fitness goals with our advanced Fitness Tracker 3.0. Monitor your activity, heart rate, and more.",
+        "image": "https://m.media-amazon"
+      },
+      {
+        "id":21,
+        "quantaty":4,
+         "product_name":"kulhad tea",
+        "image":"https://media.thekashmirmonitor.net/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-19-at-6.00.04-PM-768x1024.jpeg?is-pending-load=1",
+         "rating":2.4 ,
+           "description":"Kulhad Tea: Shockingly hesitant, this young Kashmiri entrepreneur creates eco-friendly clay cups IG News"  }
+,
+
+{
+   
+    "product_name":"Kosai" ,
+     "image":"https://trcimages.nl/collection/collection_images/normal/2010/2010.0087.jpg",
+     "price":3000,
+     "rating":2.3,
+     "revie":2.2,
+      "descripttion":"This coat was acquired in early 2010 by Willem Vogelsang while stationed in Uruzgan, southern Afghanistan. The coat was given by the then district chief of the district of Dehrawud, who had promised to obtain such a coat when asked almost a year previously about this type of coat that was worn by an elderly gentleman in the same district. This type of coat is depicted in Mountstuart Elphinstone (1815), Pl. II"
+},
+{
+  "id":22,
+  "quantaty":4,
+   "product_name":"Topi" ,
+    "image":"https://trc-leiden.nl/trc-digital-exhibition/index.php/afghan-dress/item/77-pashtun-dress#&gid=1&pid=2",
+    "price":3000,
+    "rating":2.3,
+    "revie":2.2,
+     "descripttion":"This coat was acquired in early 2010 by Willem Vogelsang while stationed in Uruzgan, southern Afghanistan. The coat was given by the then district chief of the district of Dehrawud, who had promised to obtain such a coat when asked almost a year previously about this type of coat that was worn by an elderly gentleman in the same district. This type of coat is depicted in Mountstuart Elphinstone (1815), Pl. II"
+},
+{
+  "id":23,
+  "quantaty":4,
+     "product_name":"turban",
+      "image":"https://uomoattire.com/cdn/shop/products/1_turban.jpg?v=1666260267",
+      "price":400,
+      "rating":2.5,
+       "review":2.2,
+        "desp":""
+},
+ {
+
+     "product_name":"patan traditional pagri",
+      "image":"https://www.onlinehub.pk/image/cache/catalog/caps/tila-cap/kulla001/kulla-kulla001-700x700.jp",
+       "price":1500,
+        "rating":2.2,
+         "desp":"despription goes here "
+
+ },
+ {
+  "id":24,
+  "quantaty":4,
+    "product_name":"Black Turban",
+     "image":"https://shameelkhan.com/wp-content/uploads/2020/01/Black-Turban-555x777.jpg",
+      "price":1500,
+       "rating":2.2,
+        "desp":"The Royal Black Embroidered Turban by Shameel Khan is the right choice for the groom to make his day remarkable. Turban is readily available in size of four circumferences from 20 to 24 inches. Plus or minus half an inch may vary in measurement. There might be some color variation. "
+
+},
+{
+  "id":25,
+  "quantaty":4,
+    "product_name":"Luxury Brown Kurta and Shalwa",
+    "description":"Luxury Brown Kurta and Shalwa",
+     "image":"https://shameelkhan.com/wp-content/uploads/2022/12/Luxury-Brown-Kurta-and-Shalwar.jpg",
+      "price":2500,
+       "rating":2.2,
+        "desp":"Luxury Brown Kurta and Shalwar for men are specially designed with soft cotton stuff that will keep you comfortable. This is easily washable and useable. "
+
+},
+{
+  "id":26,
+  "quantaty":4,
+    "product_name":"kameez and shalwar",
+     "image":"https://shameelkhan.com/wp-content/uploads/2022/12/Brown-Kameez-and-Shalwar.jpg",
+      "price":2500,
+       "rating":2.2,
+        "desp":"Kameez and Shalwar for men are made with washable fabric. The stuff is very soft and comfortable. It looks so amazing when you will wear it. This is especially for weddings sui "
+
+},
+{
+  "id":28,
+  "quantaty":4,
+    "product_name":"Waistcoat",
+     "image":"https://shameelkhan.com/wp-content/uploads/2022/12/Golden-and-Red-Waistcoat.jpg",
+      "price":2500,
+       "rating":2.2,
+        "description":"Waistcoat Looks stylish in Shameel khan self embroidered waistcoat. Featuring a ban collar with a slim fit cut for a unique look. Embroidered self jamawar fabric to create an overall embellish appearance."
+
+},
+ {
+  "id":29,
+  "quantaty":4,
+     "product_name":"Maroon Embroidered Khussa",
+      "image":"https://shameelkhan.com/wp-content/uploads/2023/03/khussa.jpg",
+      "price":5000,
+      "rating":4.2,
+      "description":" Khussa by shameelkhan is a beautifully crafted traditional footwear. Made with high-quality leather and adorned with intricate embroidery work, this khussa is a perfect blend of style and comfort. The black base color is complemented by the vibrant maroon embroidery, which adds a pop of color to the design. The attention to detail in the embroidery work is evident in the delicate patterns and motifs. The khussa is finished with a sturdy sole that provides excellent grip and durability. This footwear is suitable for various occasions, such as weddings, festivals, or formal events, and can add an elegant touch to any outfit."
+ },
+ {
+  "id":30,
+  "quantaty":4,
+        "product_name":"Kosai" ,
+         "image":"https://trcimages.nl/collection/collection_images/normal/2010/2010.0087.jpg",
+         "price":3000,
+         "rating":2.3,
+         "revie":2.2,
+          "descripttion":"This coat was acquired in early 2010 by Willem Vogelsang while stationed in Uruzgan, southern Afghanistan. The coat was given by the then district chief of the district of Dehrawud, who had promised to obtain such a coat when asked almost a year previously about this type of coat that was worn by an elderly gentleman in the same district. This type of coat is depicted in Mountstuart Elphinstone (1815), Pl. II"
+    },
+     
+
+
+    {
+      "id":31,
+      "quantaty":4,
+    
+      "product_name":"",
+       "image":"https://trc-leiden.nl/trc-digital-exhibition/media/k2/items/cache/d48ed900e79fa9547169c26138b4cd8d_XL.jpg",
+       "category":"women",
+       "rating":2.2,
+         "description":"",
+        "price":2000
+  },
+   {
+    "id":32,
+    "quantaty":4,
+       "product_name":"kuchi qamees",
+      "image":"https://trc-leiden.nl/trc-digital-exhibition/index.php/afghan-dress/item/77-pashtun-dress#&gid=1&pid=9",
+       "pric":2000,
+        "rating":2.2,
+         "description":""
+   },
+     {
+      "id":33,
+      "quantaty":4,
+     
+           "product_name":"trouser",
+            "image":"https://trc-leiden.nl/trc-digital-exhibition/index.php/afghan-dress/item/77-pashtun-dress#&gid=1&pid=8",
+             "description":"",
+              "rarting":2.2
+               
+     },
+      {
+        "id":34,
+        "quantaty":4,
+   
+           "product_name":"guli pirahan/dress",
+            "image":"https://trc-leiden.nl/trc-digital-exhibition/index.php/afghan-dress/item/77-pashtun-dress#&gid=1&pid=4",
+             "description":"it using by the pashton  women to collect form "
+      }
+]
+ 
+  

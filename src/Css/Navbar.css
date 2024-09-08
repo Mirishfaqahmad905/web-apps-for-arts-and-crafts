@@ -1,0 +1,272 @@
+/* Navbar.css */
+/* Base styles */
+.navbarr {
+  display: flex;
+   width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #206e7d;
+  color: #ffffff;
+  padding: 10px 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+ .search-item-product {
+   display: flex;
+     justify-content: space-evenly;
+ }
+.search-item-product input  {
+   width: 400px;;
+    border-radius: 3px ;
+     padding: 10px;;
+     border: none;
+    
+}
+/* ... (other styles) */
+/* Dropdown menu styles */
+.dropdown {
+  position: relative;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #0a5f53;
+  min-width: 160px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content a {
+  color: #fff9f9;
+  padding: 10px;
+  text-decoration: none;
+  display: block;
+  transition: background-color 0.3s ease;
+}
+.dropdown-content a:hover {
+  background-color: #40e4ef;
+}
+
+/* Base styles */
+.navbarr {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff5f5;
+  padding: 10px 20px;
+   color: #ffffff;
+    font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar__logo {
+  font-size: 24px;
+}
+
+.navbar__links {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.dropdownites::after {
+  content: "▼"; /* Add a down arrow or any icon you prefer */
+  margin-left: 5px; /* Add spacing between the link text and the icon */
+}
+
+.navbar__link {
+  text-decoration: none;
+  /* color: #333333;
+    */
+     color: #000000;
+  transition: color 0.3s ease;
+}
+
+.navbar__link:hover {
+  color: #1f5125;
+}
+
+.navbar__user {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.navbar__profile-icon,
+.navbar__login {
+  text-decoration: none;
+  color: #333333;
+  transition: color 0.3s ease;
+}
+
+.navbar__profile-icon:hover,
+.navbar__login:hover {
+  color: #1f5125;
+}
+
+.navbar__bag-icon {
+  text-decoration: none;
+  color: #1f5125;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+/* Responsive styles */
+
+@media (max-width: 768px) {
+  .navbarr {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .navbar__links {
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+  }
+
+  .navbar__user {
+    margin-top: 10px;
+  }
+
+  .search-item-product {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .navbar__bag-icon {
+    margin-top: 10px;
+  }
+}
+
+
+
+/*  headers css searchbar and logo  */
+/* Style the container */
+
+
+ /* cart counter css */
+ /* Apply these styles to your cart counter */
+.counter-color-red {
+  position: relative;
+  display: inline-block;
+}
+
+.count {
+  position: absolute;
+  top: 10px; /* Adjust this value to control the vertical position of the counter */
+  left: 54%;
+  transform: translateX(-50%);
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 4px 8px; /* Adjust padding for the counter */
+  font-size: 12px; /* Adjust font size for the counter */
+}
+.cart-icon {
+   color: rgb(171, 171, 32);
+  font-size: 24px; /* Adjust font size for the icon */
+  vertical-align: middle; /* Align the icon vertically with the counter */
+}
+
+
+
+.navbar__lottie-animation {
+  width: 280px; /* Adjust the width as needed */
+  height: 100px; /* Adjust the height as needed */
+}
+.shoping_cart_animation{
+   width: 200px;
+     height: 100px;;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* CSS for the avatar container */
+.navbar-avatar-image {
+  display: flex;
+  align-items: center; /* Vertically align items */
+}
+
+/* CSS for the avatar image */
+.navbar-avatar-image img {
+  width: 40px; /* Adjust the width as needed */
+  height: 40px; /* Adjust the height as needed */
+  border-radius: 50%; /* Makes the image circular */
+  margin-right: 10px; /* Adjust spacing between image and button */
+}
+
+/* CSS for the logout button */
+.navbar-avatar-image button {
+  background-color: transparent; /* Remove button background */
+  border: none; /* Remove button border */
+  color: #333; /* Text color for the button */
+  cursor: pointer;
+  font-size: 16px; /* Adjust font size as needed */
+  margin-left: 10px; /* Adjust spacing between image and button */
+}
+
+/* Hover effect for the button (optional) */
+.navbar-avatar-image button:hover {
+  text-decoration: underline; /* Underline on hover (you can change this) */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,282 @@
+/* Home.css */
+
+/* Set a fixed height for the carousel container */
+#carouselExampleCaptions {
+  height: 400px;
+   margin-top: 0.2rem;
+}
+
+/* Set a fixed height for the carousel images */
+.carousel-item img {
+  height: 600px;
+  object-fit: cover; /* Maintain aspect ratio and cover container */
+}
+
+/* Center the carousel caption content */
+.carousel-caption {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.6); /* Add a semi-transparent background */
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+/* Style the carousel caption text */
+.custom-carousel-content h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.custom-carousel-content p {
+  font-size: 16px;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+/* Style the "Get Now" button */
+/* style of latest trending selling product */
+.latest-product-trend {
+  padding: 20px;
+  margin-top: 100px;
+  background-color: #ffff;
+}
+
+.product-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.product-card {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  background-color: #fff;
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.2s ease-in-out;
+}
+
+.product-card:hover {
+  transform: scale(1.02);
+}
+
+.demand_product_image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* Other existing styles */
+}
+
+.demand_product_image img {
+  width: 100%;
+  max-height: 200px; /* Adjust this height based on your design */
+  object-fit: cover;
+   align-items: center;
+    text-align: center;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+
+.demand_product_image h3 {
+  margin: 10px 0;
+  font-size: 1.2rem;
+}
+
+.product-price p {
+  margin: 8px 0;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.reviews {
+  flex-grow: 1;
+  padding: 10px;
+  background-color: #f8f8f8;
+}
+
+.review {
+  padding-top: 10px;
+  border-top: 1px solid #ddd;
+  margin-top: 10px;
+}
+
+.review button {
+  background-color: #ff9900;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+ .margin_left_rating{
+   margin-right: auto;
+ }
+ /*  trending title  */
+/* Style for the container */
+.trending-selling-product-list {
+   margin-top: 200px;;
+    
+  background-color: #f8f8f8;
+  border: 1px solid #e0e0e0;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  border-radius: 10px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.trending-selling-product-list:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Center the container */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #f5f5f5;
+}
+
+
+
+ /* new Product list  */
+ /* Base styling for the new product list */
+
+/* Styling for the title of the new product */
+/* Base styling for the new product list */
+
+
+
+  /*  responsive  */
+
+
+@media (max-width: 768px) {
+  .product-container {
+    grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
+  }
+ 
+  .demand_product_image img {
+    height: 150px; /* Adjust this height based on your design */
+  }
+
+  .latest-product-trend {
+    margin-top: 50px;
+  }
+}
+
+
+
+ /*  neweproduct list  */
+
+ /* Base styling for the new product list */
+/* Base styling for the new product list */
+
+/* Styling for the product image */
+
+.header-new-arrival-products{
+   display: flex;
+}
+
+/* Styles for the container */
+.ecomer-cards-container-newarrival {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+   align-items: center;
+  ;
+}
+.header-new-arrival-productss {
+  background-color: #f5f5f5;
+  padding: 1rem;
+   font-size: 2rem;;
+  text-align: center;
+  font-family: 'Bricolage Grotesque', sans-serif;
+  border-bottom: 2px solid #ccc;
+}
+
+/* Styles for individual cards */
+
+
+/* Container styles */
+.ecomer-cards-container-newarrival {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+/* Card styles */
+.card-new-arrival {
+  width: 18rem;
+  margin: 1rem;
+  transition: transform 0.3s, box-shadow 0.3s;
+  border: none;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card-new-arrival:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card-new-image {
+  max-height: 200px; /* Adjust as needed */
+}
+
+.card-new-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+/* Button styles */
+.card-new-arrival .btn-primary {
+  color: black;
+  /* Add more button styles here */
+}
+
+
+
+
+/* bottome poster  */
+
+/* Styles for the poster-bottom section */
+.poster-bottom {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f7f7f7;
+}
+
+/* Styles for the Card */
+.poster-list-cards {
+  width: 100%;
+  border: none;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+.poster-list-cards .card-img-top {
+  height: 500px;;
+  object-fit: cover;
+}
+
+/* Add more styles as needed */

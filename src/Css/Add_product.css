@@ -1,0 +1,97 @@
+/* Reset some default styles for better consistency */
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Global styling for the entire page */
+body {
+  font-family: Arial, sans-serif;
+  /* background-color: #0f0c0c; */
+}
+
+.container-admin_portions{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Form styling */
+.form-input {
+  margin-bottom: 20px;
+}
+
+.form-input label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.form-input input[type="text"],
+.form-input input[type="number"],
+.form-input select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: #fff;
+  transition: border-color 0.3s;
+}
+
+.form-input input[type="text"]:focus,
+.form-input input[type="number"]:focus,
+.form-input select:focus {
+  border-color: #007bff;
+}
+
+.form-input select {
+  height: 40px;
+}
+
+/* Button styling */
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+/* Responsive Media Queries */
+@media (max-width: 768px) {
+  .container {
+    padding: 10px;
+  }
+
+  .form-input {
+    margin-bottom: 15px;
+  }
+
+  .btn-primary {
+    padding: 8px 16px;
+  }
+}
+
+
+
+
+/* YourComponent.css */
+.search-input_products{
+   width: 100%;;
+    margin: 4px 0px 4px 0px;
+   ;
+    padding: 20px;;
+}

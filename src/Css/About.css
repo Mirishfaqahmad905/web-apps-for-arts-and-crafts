@@ -1,0 +1,125 @@
+/* Style for .our-story */
+.our-story {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center; /* Center content horizontally */
+}
+
+/* Style for mission content paragraphs */
+.missio-content p {
+  text-align: center;
+}
+
+/* Style for .left-image */
+.left-image {
+  text-align: center;
+}
+
+/* Style for .right-container */
+.right-container {
+  text-align: center;
+}
+
+/* Style for images inside .our-story */
+/* Style for .our-story (container for content sliding above the image) */
+.our-story {
+  position: relative; /* Relative positioning for the container */
+  background-image: url('https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80'); /* Replace 'your-image.jpg' with your image file path */
+  background-size: cover; /* Cover the entire container with the background image */
+  background-position: center center; /* Center the background image */
+  background-attachment: fixed; /* Fixed background so it doesn't scroll */
+ height: 400px;;
+  /* Add any additional styles for the container as needed */
+}
+
+/* Style for content inside .our-story */
+.our-story-content {
+  /* Position the content over the image */
+  position: relative;
+  z-index: 1; /* Ensure content appears above the image */
+  /* Add other styles for your content here */
+}
+/* Style for .head-store */
+.head-store {
+  text-align: center;
+  color:white;
+  font-size: 23px;
+}
+
+/* Style for .head-store h1 */
+.head-store h1 {
+  position: relative;
+  text-align: center;
+  /* bottom: 400px; */ /* You can adjust this value as needed */
+  font-size: 70px;
+  margin-bottom: 20px; /* Add some spacing between heading and paragraph */
+}
+
+/* Style for .head-store p */
+.head-store p {
+  position: relative;
+  /* background-color: black; */
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  /* bottom: 300px; */ /* You can adjust this value as needed */
+  margin-bottom: 30px; /* Add some spacing between paragraphs */
+}
+
+/* Style for .our-mission-about */
+.our-mission-about {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+/* Style for .missio-content */
+.missio-content {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Style for .container-display-image */
+.container-display-image {
+  background-color: rgb(4, 5, 5);
+  display: flex;
+  color: white;
+
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center; /* Center content vertically and horizontally */
+}
+
+/* Style for .our-vission-team */
+.our-vission-team {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center content horizontally */
+}
+
+/* Style for .logo-vission and .content-vission */
+.logo-vission,
+.content-vission {
+  text-align: center;
+  margin-bottom: 20px; /* Add some spacing between logo and content */
+}
+
+/* Style for .who_we_are */
+.who_we_are {
+  text-align: center;
+}
+ .join-us-team{
+   border-left-style: dashed;
+ }
+.our-vission-team{
+  border-left-style: dashed;
+}
+/* Style for .content-who-weare paragraphs */
+.content-who-weare p {
+  width: 400px; /* Adjust the width as needed */
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  /* Add any additional styles as needed */
+}

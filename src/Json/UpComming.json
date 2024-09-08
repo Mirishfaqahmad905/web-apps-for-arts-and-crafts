@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "title": "Pakol for Girls",
+      "image": "https://seengar.com/wp-content/uploads/2017/09/Afghan-Pakol-for-Girls.jpg",
+      "image2":"https://seengar.com/wp-content/uploads/2017/09/Pashtun-Red-Velvet-Dress-720x852.jpg",
+      "image3":"https://seengar.com/wp-content/uploads/2017/09/120130739_3201171843314319_3664502280715794499_n.jpg",
+      "price": 29.9,
+        "review":3.4,
+          "decription":"Women usually wear Pakol in rare cases thats why we introduce Pakol for Girls. We have different colors Pakol for Girls including black, white, brown and grey. Since Pakol is made of pure wool it is very warm and comfortable in winter.",
+          "rating":2.3
+    },
+    {
+      "id": 2,
+      "title": "Pakol for mens",
+      "image": "https://seengar.com/wp-content/uploads/2017/09/Imran-Khan-PTI-Pakol-Hat-720x933.jpg",
+      "image2":"https://seengar.com/wp-content/uploads/2017/09/Afghan-Traditional-Hat-Pakol-720x933.jpg",
+      "image3":"https://seengar.com/wp-content/uploads/2017/09/Afghan-Traditional-Pakol-Hat.jpg",
+ "ratin":4.4,
+      "price": 49.99
+    },
+    {
+      "id": 3,
+      "name": "Azure Mosaic clutch",
+      "image": "https://seengar.com/wp-content/uploads/2021/03/Azure-Mosaic-clutch.jpg",
+      "price": 32.00,
+      "description": "Our Mosaic clutch collection is made with hand from brass, metal and tiles. The inner portion is made of soft velvet along with the closing clips to make sure it is secure as well as the 42-inch strap. We have various colors and designs which can be seen from the category. The length of the clutch is 7 inches and 5 inches wide.",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Chocolate Mosaic Clutch",
+      "image": "https://seengar.com/wp-content/uploads/2021/03/Mosaic-clutch.jpg",
+      "price": 32.00,
+      "description": "Our Mosaic clutch collection is made with hand from brass, metal and tiles. The inner portion is made of soft velvet along with the closing clips to make sure it is secure as well as the 42-inch strap. We have various colors and designs which can be seen from the category. The length of the clutch is 7 inches and 5 inches wide.",
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "name": "Scarlet Mosaic Clutch",
+      "image": "https://seengar.com/wp-content/uploads/2021/03/Afghan-Clutch.jpg",
+      "price": 32.00,
+      "description": "Our Mosaic clutch collection is made with hand from brass, metal and tiles. The inner portion is made of soft velvet along with the closing clips to make sure it is secure as well as the 42-inch strap. We have various colors and designs which can be seen from the category. The length of the clutch is 7 inches and 5 inches wide.",
+      "rating": 4.7
+    },
+    {
+      "id": 6,
+      "name": "Straight Outta Pekhawar",
+      "image": "https://seengar.com/wp-content/uploads/2017/12/product1-1.jpg",
+       "image2":"https://seengar.com/wp-content/uploads/2017/12/product1-back.jpg",
+       "image3":"https://seengar.com/wp-content/uploads/2017/12/t-shirt.jpg",
+      "price": 32.00,
+      "description": "Our Mosaic clutch collection is made with hand from brass, metal and tiles. The inner portion is made of soft velvet along with the closing clips to make sure it is secure as well as the 42-inch strap. We have various colors and designs which can be seen from the category. The length of the clutch is 7 inches and 5 inches wide.",
+      "rating": 4.8
+    }
+  ]
+  

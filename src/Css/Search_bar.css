@@ -1,0 +1,105 @@
+/* Basic styles for the header */
+.search_and_logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px; /* Reduce padding for smaller screens */
+    background-color: #fcf1f1;
+    color: rgb(0, 0, 0);
+    transition: background-color 0.3s ease;
+    background-image: url('your-image-url.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/* Default styles */
+.my_search_bar_here {
+    width: 84rem;
+}
+
+/* Responsive styles for smaller screens */
+@media (max-width: 768px) {
+    .my_search_bar_here {
+        width: 100%; /* Full width on screens <= 768px */
+        max-width: 100%; /* Ensure it doesn't exceed the viewport width */
+    }
+}
+
+/* Additional media queries for other screen sizes as needed */
+
+/* Use media queries for responsiveness */
+@media (min-width: 768px) {
+    .search_and_logo {
+        padding: 15px 40px; /* Increase padding for wider screens */
+    }
+     .my_search_bar_here{
+         display: flex;
+         justify-content: center;
+         flex-direction: column;
+     }
+}
+
+.header-logo-eco img {
+    max-height: 60px; /* Decrease logo height for smaller screens */
+    margin-right: 20px; /* Reduce margin for smaller screens */
+}
+
+/* Style the search container */
+.search_container {
+    display: flex;
+    align-items: center;
+    flex-grow: 1; /* Allow the search container to grow and fill available space */
+}
+
+/* Style the search input field */
+.search_input_field {
+    padding: 10px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly more opaque white background */
+    border: 2px solid #ccc;
+    transition: all 0.3s ease;
+    outline: none;
+    flex-grow: 1;
+    margin-right: 10px;
+}
+
+/* Style the search button */
+.search_button {
+    background-color: #fafafa;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover effect for the search button */
+.search_button:hover {
+    background-color: #ff5722; /* Change color on hover */
+}
+
+/* Animated background color for the header */
+.search_and_logo.animated {
+    background-color: #ff5722; /* Change background color during animation */
+}
+
+/* Additional styles for specific animations */
+.animdationSearching {
+    width: 60px; /* Decrease width for smaller screens */
+    height: 20px; /* Decrease height for smaller screens */
+}
+
+.NoDatafoundanimationLottie {
+    width: 100%;
+    max-height: 300px; /* Limit the height for smaller screens */
+}
+
+.login_animation {
+    width: 80px; /* Decrease width for smaller screens */
+    height: 40px; /* Decrease height for smaller screens */
+}
+
+/* Use media queries for further responsiveness as needed */

@@ -1,0 +1,75 @@
+/* Default styles */
+.container-review-rating-product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .container-review-rating-product h2 {
+    font-size: 24px;
+  }
+  
+  .container-review-rating-product input[type="text"],
+  .container-review-rating-product select,
+  .container-review-rating-product textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .container-review-rating-product button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 768px) {
+    .container-review-rating-product {
+      padding: 10px;
+    }
+  
+    .container-review-rating-product h2 {
+      font-size: 20px;
+    }
+  
+    .container-review-rating-product input[type="text"],
+    .container-review-rating-product select,
+    .container-review-rating-product textarea {
+      font-size: 14px;
+      padding: 8px;
+    }
+  
+    .container-review-rating-product button {
+      font-size: 16px;
+      padding: 8px 16px;
+    }
+  }
+  
+  /* Additional responsive styles for smaller screens (adjust as needed) */
+  @media (max-width: 480px) {
+    .container-review-rating-product h2 {
+      font-size: 18px;
+    }
+  
+    .container-review-rating-product input[type="text"],
+    .container-review-rating-product select,
+    .container-review-rating-product textarea {
+      font-size: 12px;
+      padding: 6px;
+    }
+  
+    .container-review-rating-product button {
+      font-size: 14px;
+      padding: 6px 12px;
+    }
+  }
+  

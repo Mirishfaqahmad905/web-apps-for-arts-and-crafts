@@ -1,0 +1,74 @@
+/* Container for the filter list */
+.container-filter-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 3rem; /* Add margin to the top */
+  padding: 1rem; /* Add padding */
+  margin: 0.5rem; /* Add margin */
+  background-color: #fff8f8; /* Set background color */
+}
+
+/* Style for category links */
+.category-link {
+  text-decoration: none;
+  color: #333;
+  padding: 10px 20px; /* Add padding around each link */
+  transition: color 0.2s ease-in-out;
+  border-bottom: 1px solid #ddd; /* Add a bottom border for separation */
+}
+
+/* Hover effect for category links */
+.category-link:hover {
+   
+  color: #ff5722;
+  background-color: #f9f9f9; /* Change background color on hover */
+}
+
+/* Style the container */
+.filter-products {
+  background-color: #f0f0f0; /* Background color */
+  padding: 20px; /* Add padding */
+  border: 1px solid #ddd; /* Add a border */
+  border-radius: 5px; /* Add border radius */
+}
+
+/* Style the header */
+.filter-products h1 {
+  background-color: #333; /* Header background color */
+  color: white; /* Header text color */
+  padding: 15px; /* Header padding */
+  margin: 0; /* Remove margin */
+  border-top-left-radius: 5px; /* Rounded corners for top-left */
+  border-top-right-radius: 5px; /* Rounded corners for top-right */
+}
+
+/* Style the hr separator */
+.filter-products hr {
+  border: none; /* Remove default hr styles */
+  border-top: 1px solid #ddd; /* Add a top border for separation */
+  margin: 10px 0; /* Adjust margin for separation */
+}
+
+/* Style the filter buttons and labels */
+.filter-products label {
+  display: block; /* Make labels a block element */
+  margin-bottom: 10px; /* Add spacing between buttons */
+  font-weight: bold; /* Make labels bold */
+}
+
+/* Style the checkbox inputs */
+.filter-products input[type="checkbox"] {
+  margin-right: 5px; /* Add spacing between checkbox and label text */
+}
+
+/* Style the checked checkboxes */
+.filter-products input[type="checkbox"]:checked + label {
+  color: #ff5722; /* Change label text color when checkbox is checked */
+}
+
+/* Hover effect for labels */
+.filter-products label:hover {
+  cursor: pointer; /* Change cursor on hover */
+  text-decoration: underline; /* Add underline on hover */
+}

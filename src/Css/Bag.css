@@ -1,0 +1,184 @@
+/* Container for the entire shopping cart */
+.container-payment-list {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Container for each item */
+  .container-background-image {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  /* Image container for each item */
+  .image-container-payment {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Hide overflowing content to prevent it from affecting layout */
+  }
+  
+  /* Zoom in effect on image when hovering */
+  .image-container-payment img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    transition: transform 0.3s ease-in-out; /* Add a smooth transition for the transform property */
+  }
+  
+  /* Apply zoom in effect when hovering over the image */
+  .image-container-payment img:hover {
+    transform: scale(1.1); /* Increase the scale to zoom in (adjust as needed) */
+  }
+  
+  /* Container for item details and buttons */
+  .container-item-details {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  /* Item name and description */
+  .container-item-details h2 {
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  .container-item-details h4 {
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  
+
+  .checkout-container {
+    background-image: url('https://cdn.pixabay.com/photo/2021/03/19/13/40/online-6107598_1280.png');
+    background-size: cover; /* Adjust to fit your needs */
+    background-position: center center; /* Center the background image */
+    background-repeat: no-repeat;
+    width: 100%; /* Set the width as needed */
+    height: 400px; /* Set the height as needed */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .checkout-container button {
+    background-color: #007bff; /* Set your desired button background color */
+    color: #fff; /* Set the text color */
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .checkout-container button:hover {
+    background-color: #0056b3; /* Change color on hover if desired */
+  }
+  
+
+
+  /* Item price and buttons */
+  .container-item-price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10px;
+  }
+  
+  .container-item-price h2 {
+    font-size: 20px;
+    margin: 0;
+  }
+  /* Button styles */
+  .container-item-price button {
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .container-item-price button:hover {
+    background-color: #c82333;
+  }
+  /* Remove icon */
+  .remove-icon {
+    font-size: 18px;
+    margin-left: 10px;
+  }
+  .success-payment{
+     width: 200px;
+      height: 200px;
+       text-align: center;
+       
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .quantity-quantaty1 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .increament-quintity,
+  .decreament-quintity {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 10px;
+  }
+  
+  .quantity-box {
+    background-color: #f0f2f5;
+    border: 1px solid #ddd;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .quantity-quantaty1 h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+
+ .nodatefound_cart{
+ text-align: center;
+  width: 50%;
+
+  
+ }

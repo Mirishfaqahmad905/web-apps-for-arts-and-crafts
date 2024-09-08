@@ -1,0 +1,38 @@
+[
+     {
+         "id":1,
+          "quantaty":2,
+         "product_name":"",
+          "image":"https://trc-leiden.nl/trc-digital-exhibition/media/k2/items/cache/d48ed900e79fa9547169c26138b4cd8d_XL.jpg",
+          "category":"women",
+          "rating":2.2,
+            "description":"",
+           "price":2000
+     },
+      {
+         "id":2,
+           "quantaty":2,
+          "product_name":"kuchi qamees",
+         "image":"https://trc-leiden.nl/trc-digital-exhibition/index.php/afghan-dress/item/77-pashtun-dress#&gid=1&pid=9",
+          "price":2000,
+           "rating":2.2,
+            "description":""
+      },
+        {
+             "id":3,
+              "quantaty":3,
+              "product_name":"trouser",
+               "image":"https://trc-leiden.nl/trc-digital-exhibition/index.php/afghan-dress/item/77-pashtun-dress#&gid=1&pid=8",
+                "description":"",
+                 "rarting":2.2
+                  
+        },
+         {
+             "id":4,
+              "quantaty":2,
+              "product_name":"guli pirahan/dress",
+               "image":"https://trc-leiden.nl/trc-digital-exhibition/index.php/afghan-dress/item/77-pashtun-dress#&gid=1&pid=4",
+                "description":"it using by the pashton  women to collect form "
+         }
+    
+]

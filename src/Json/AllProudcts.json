@@ -1,0 +1,335 @@
+[
+  {
+    "id": 1,
+    "product_name": "Smartphone X",
+    "title": "Innovative Tech Gadget",
+    "image": "https://m.media-amazon.com/images/I/91EACAPLSqL._AC_SY355_.jpg",
+    "price": 20.99,
+    "rating": 4.8,
+     "quantaty":2
+  },
+  {
+    "id": 2,
+    "product_name": "Smart Home Hub Pro",
+    "title": "Advanced Smart Home Device",
+    "image": "https://m.media-amazon.com/images/I/41tLwVK+u0S._SY355_.jpg",
+    "price": 3.00,
+    "rating": 4.5,
+    "quantaty":2
+  },
+  {
+    "id": 3,
+    "product_name": "Noise-Free Pro Headphones",
+    "title": "Premium Noise-Canceling Headphones",
+    "image": "https://m.media-amazon.com/images/I/61ZpA2ZPXiL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "price": 49.99,
+    "rating": 4.9,
+    "quantaty":2
+  },
+  {
+    "id": 4,
+    "product_name": "FitPro 3.0",
+    "title": "Next-Gen Fitness Tracker",
+    "image": "https://m.media-amazon.com/images/I/61u459FoIQL._AC_SX679_.jpg",
+    "price": 20,
+    "rating": 4.7,
+    "quantaty":2
+  },
+  {
+    "id": 5,
+    "product_name": "iPhone 14 Pro Max",
+    "title": "iPhone 14 Pro Max with Smart Camera",
+    "image": "https://m.media-amazon.com/images/I/61KqADKgByL._AC_SX425_.jpg",
+    "price": 29.99,
+    "rating": 4.6,
+    "quantaty":2
+  },
+  {
+    "id": 6,
+    "product_name": "SmartChef 2000",
+    "title": "Smart Kitchen Appliance",
+    "image": "https://m.media-amazon.com/images/I/61+TVrElkSL._AC_SY300_SX300_.jpg",
+    "price": 40,
+    "rating": 5,
+    "quantaty":2
+  },
+  {
+    "id": 7,
+    "product_name": "Fashionable Canvas Backpack",
+    "title": "Multi-Pocket Travel Bag",
+    "image": "https://m.media-amazon.com/images/I/71CWNt3SkuL._AC_SY450_.jpg",
+    "price": 32,
+    "rating": 4.5,
+    "quantaty":5
+  },
+  {
+    "id": 8,
+    "product_name": "LED Solar Garden Lights",
+    "title": "Outdoor Waterproof Path Lights",
+    "image": "https://m.media-amazon.com/images/I/71XK7dAv7qL.__AC_SY445_SX342_QL70_FMwebp_.jpg",
+    "price": 19.99,
+    "rating": 4.6,
+    "quantaty":2
+  },
+  {
+    "id": 9,
+    "title": "Electronic",
+    "image": "product1.jpg",
+    "price": 29.99,
+    "rating": 4.5,
+    "quantaty":2
+  },
+  {
+    "id": 10,
+    "title": "Kitchen",
+    "image": "product2.jpg",
+    "price": 49.99,
+    "rating": 4.5,
+    "quantaty":2
+  },
+  {
+    "id": 11,
+    "title": "Home",
+    "image": "product3.jpg",
+    "price": 19.99,
+    "rating": 4.5 ,
+    "quantaty":2
+  },
+  {
+    "id": 12,
+    "title": "Beauty & health",
+    "image": "product4.jpg",
+    "price": 39.99,
+    "rating": 4.5,
+    "quantaty":2
+  },
+  {
+    "id": 13,
+    "title": "Grocery",
+    "image": "product5.jpg",
+    "price": 59.99
+    ,
+    "quantaty":2  },
+  {
+    "id": 14,
+    "product_name": "Smartphone X",
+    "price": "$699.99",
+    
+    "quantaty":2,
+    "description": "Experience the latest technology with Smartphone X. Powerful features, stunning camera, and long-lasting battery.",
+    "image": "https://m.media-amazon.com/images/I/61k5imDfesL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "reviews": [
+      {
+        "rating": 4.5,
+        "comment": "I'm loving this phone! The camera quality is amazing and it's so fast.",
+        "author": "user123"
+      },
+      {
+        "rating": 5.0,
+        "comment": "Best smartphone I've ever owned. The display is gorgeous.",
+        "author": "techGuru"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "product_name": "UltraBook Pro X",
+    "price": "$1299.99",
+    
+    "quantaty":2,
+    "description": "Experience unmatched performance with the UltraBook Pro X. Sleek design, powerful processor, and stunning display for productivity and entertainment.",
+    "image": "https://m.media-amazon.com/images/I/41hPbiXBsvL._SX300_SY300_QL70_FMwebp_.jpgp_.jpg",
+    "reviews": [
+      {
+        "rating": 4.9,
+        "comment": "This laptop is a beast! It handles all my tasks effortlessly, and the battery life is impressive.",
+        "author": "techSavvy"
+      },
+      {
+        "rating": 5.0,
+        "comment": "Worth every penny. The display is sharp, and it's so lightweight for its power.",
+        "author": "proDesigner"
+      }
+    ]
+  },
+  {
+    "product_name": "Wireless Earbuds Pro",
+    "price": "$129.99",
+    
+    "quantaty":2,
+
+    "description": "Immerse yourself in music with our Wireless Earbuds Pro. Noise cancellation and premium sound quality.",
+    "image": "https://m.media-amazon.com/images/I/61J2bJ454iL._AC_SX425_.jpg",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "These earbuds exceeded my expectations. The noise cancellation works like magic.",
+        "author": "musicLover"
+      },
+      {
+        "rating": 4.5,
+        "comment": "Great value for the price. Very comfortable to wear for long periods.",
+        "author": "activeUser"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    
+    "quantaty":2,
+    "product_name": "Fitness Tracker 3.0",
+    "price": "$79.99",
+    "description": "Achieve your fitness goals with our advanced Fitness Tracker 3.0. Monitor your activity, heart rate, and more.",
+    "image": "https://m.media-amazon"
+  },
+  {
+    "id": 16,
+    
+    "quantaty":2,
+    "product_name": "Fitness Tracker 3.0",
+    "price": "$79.99",
+    "description": "Achieve your fitness goals with our advanced Fitness Tracker 3.0. Monitor your activity, heart rate, and more.",
+    "image": "https://m.media-amazon.com/images/I/61bbxaYe3uL._AC_SX569_.jpg",
+    "reviews": [
+      {
+        "rating": 4.2,
+        "comment": "Helped me stay motivated on my fitness journey. The app is user-friendly.",
+        "author": "fitFreak"
+      },
+      {
+        "rating": 4.0,
+        "comment": "Accurate tracking and long battery life. Some additional exercise modes would be nice.",
+        "author": "healthEnthusiast"
+      }
+    ]
+  },
+  {
+    "product_name": "Fashionable Backpack",
+    "price": "$49.95",
+    
+    "quantaty":2,
+    "description": "Stay stylish and organized with our Fashionable Backpack. Multiple compartments and durable design.",
+    "image": "https://m.media-amazon.com/images/I/81oNZMFe6QL._AC_UY500_.jpg",
+    "reviews": [
+      {
+        "rating": 4.7,
+        "comment": "I love how this backpack combines style and functionality. Perfect for daily use.",
+        "author": "trendSetter"
+      },
+      {
+        "rating": 4.3,
+        "comment": "Comfortable to carry, and the USB charging port is a game changer.",
+        "author": "onTheGo"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    
+    "quantaty":2,
+    "product_name": "Cooking Masterclass Kit",
+    "price": "$149.00",
+    "description": "Unleash your inner chef with our Cooking Masterclass Kit. High-quality utensils, recipe book, and online tutorials.",
+    "image": "https://m.media-amazon.com/images/I/81dDLnZqsCL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "reviews": [
+      {
+        "rating": 5.0,
+        "comment": "Absolutely fantastic kit for beginners and experienced cooks alike. I'm learning so much!",
+        "author": "foodieChef"
+      },
+      {
+        "rating": 4.8,
+        "comment": "The utensils are top-notch. The recipe book has become my kitchen bible.",
+        "author": "culinaryExplorer"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "product_name": "Peshawari Shalwar Kameez Dress",
+    
+    "image": "https://seengar.com/wp-content/uploads/2021/07/Screenshot_4.jpg",
+    "sub_image": "https://seengar.com/wp-content/uploads/2021/07/185579190_2123178001154712_8137560335485628263_n.jpg",
+    "sub_image3": "https://seengar.com/wp-content/uploads/2021/07/185849557_2121345731337939_1694938052506645389_n.jpg",
+    "price": 45.00,
+    "size_image": "https://seengar.com/wp-content/uploads/2021/07/Shalwar-Qameez-Size-Chart.jpg",
+    "description": "",
+    "rating": 3.2
+    ,
+    "quantaty":2
+  },
+  {
+    "id": 19,
+    "product_name": "Markhor Chitrali Pakol",
+  
+    "image": "https://seengar.com/wp-content/uploads/2021/04/Princess-Diana-Chitrali-Pakol.jpg",
+    "sub_image": "https://seengar.com/wp-content/uploads/2021/04/Kate-Middleton-Cap-720x540.jpg",
+    "price": 20.00,
+    "rating": 3.2
+    ,
+    "quantaty":2
+  },
+  {
+    "id": 20,
+    "product_name": "Waistcoat",
+    "rating": 4.4,
+    "image": "https://seengar.com/wp-content/uploads/2017/10/Wiastcoat-Black-768x995.jpg",
+    "sub_image": "https://seengar.com/wp-content/uploads/2021/04/Kate-Middleton-Cap-720x540.jpg",
+    "price": 68.00,
+
+    "quantaty":2
+  },
+  {
+    "id": 21,
+    "product_name": "Navy Afghani Frock",
+    "rating": 3.2,
+    "image": "https://m.media-amazon.com/images/I/51r0Lmf8HKL._SY800_.jpg",
+    "sub_image": "https://seengar.com/wp-content/uploads/2021/04/Kate-Middleton-Cap-720x540.jpg",
+    "price": 140.00,
+    "quantaty":2 },
+  {
+    "id": 22,
+    "product_name": "Ladies Khussa Shoes",
+    "rating": 3.2,
+    "image": "https://seengar.com/wp-content/uploads/2020/05/Ladies-Khussa.jpg",
+    "sub_image": "https://seengar.com/wp-content/uploads/2021/04/Kate-Middleton-Cap-720x540.jpg",
+    "price": 35.00,
+
+ 
+ 
+    "quantaty":2 },
+  {
+    "id": 23,
+    "product_name": "Shoes for Men",
+
+    "image": "https://seengar.com/wp-content/uploads/2021/12/Swat-Shawl-for-Men.jpg",
+    "sub_image": "https://seengar.com/wp-content/uploads/2021/12/swat-shall.jpg",
+    "sub_image3": "https://seengar.com/wp-content/uploads/2021/12/swat-shawl-720x960.jpg",
+    "price": 40.00,
+    "rating": 3.2
+    ,
+    "quantaty":2},
+  {
+    "id": 24,
+    "product_name": "Floral Peshawari Chappal for Ladies",
+    "rating": 3.2,
+    "image": "https://seengar.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-25-at-1.02.07-PM-768x768.jpeg",
+    "sub_image": "hhttps://seengar.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-15-at-11.56.24-AM-1.jpeg",
+    "sub_image3": "https://seengar.com/wp-content/uploads/2022/06/Peshawar-Chappal-for-Ladies-1-720x720.jpeg",
+    "price": 15.00,
+
+    
+    "quantaty":2},
+  {
+    "id": 25,
+    "product_name": "Trendy Textured Fabric Light Brown Double",
+    
+    "image": "https://seengar.com/wp-content/uploads/2021/03/9a.jpg",
+    "sub_image": "https://seengar.com/wp-content/uploads/2021/03/9e.jpg",
+    "sub_image3": "https://seengar.com/wp-content/uploads/2021/03/9b-720x720.jpg",
+    "price": 59.99,
+    "rating": 3.2
+    ,
+    "quantaty":2  }
+]
+

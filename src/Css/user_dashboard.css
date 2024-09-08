@@ -1,0 +1,152 @@
+/* Base styles for the user dashboard row */
+.user_dashboard_row {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 1rem; /* Reduced the gap for a more spacious layout */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add this line for shadow effect */
+  }
+  
+  /* Styles for the left menu button section */
+  .left_menu_button {
+    background-color: rgb(30, 36, 45);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 1rem; /* Adjusted padding for consistent spacing */
+    display: flex;
+    flex-direction: column; /* Using flex to vertically align items */
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add this line for shadow effect */
+  }
+  
+  .left_menu_button li {
+    width: 200px;
+    list-style-type: none;
+    text-align: center;
+  }
+  
+  /* Improved hover effect for links */
+  .left_menu_button li a {
+    background-color: rgb(30, 36, 45);
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add this line for shadow effect */
+  }
+  
+  /* Colorful animated icons */
+  .left_menu_button li a:hover::before {
+    content: "";
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: linear-gradient(45deg, #f06, #fd5);
+    animation: pulse 1s infinite;
+    margin-right: 10px;
+  }
+  
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+      opacity: 1;
+    }
+    50% {
+      transform: scale(1.2);
+      opacity: 0.7;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
+  /* Menu list with icons styles */
+  .menu-list-icons li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Vertically align items within list items */
+    margin-top: 1rem; /* Adjusted margin for spacing */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add this line for shadow effect */
+  }
+  
+  .menu-list-icons li a {
+    text-align: center; /* Text alignment property doesn't accept "none" value */
+    color: white;
+  }
+  
+  /* User picture section styles */
+  .user_picture_ {
+    background-color: rgb(14, 37, 54);
+    color: white;
+    padding: 1rem; /* Added padding for spacing */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add this line for shadow effect */
+  }
+  
+  .user_picture_ img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px; /* Set a fixed height to maintain aspect ratio */
+    object-fit: cover; /* Ensure the image covers the container */
+  }
+
+  /* dashboard css */* dashboard css */
+  .container-user-dashboard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f3e8e8;
+  }
+  
+  .container-one-user {
+    text-align: center;
+
+  }
+  
+  .container_for_dashboard1,
+  .container_for_dashboard2,
+  .container_for_dashboard3 {
+    color: white;
+     /* flex-wrap: wrap; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s;
+  }
+  
+  .icon-container1 {
+     border-radius: 20px;;
+     
+    background-color: #03142ef3;
+  }
+  
+  .icon-container2 {
+    background-color: #051034;
+  }
+  
+  .icon-container3 {
+    background-color: #ded412;
+    border-radius: 20px;;
+  }
+  
+  .container_for_dashboard1:hover,
+  .container_for_dashboard2:hover,
+  .container_for_dashboard3:hover {
+    transform: scale(1.05);
+  }
+  
+  @media (max-width: 768px) {
+    .container_for_dashboard1,
+    .container_for_dashboard2,
+    .container_for_dashboard3 {
+      flex-direction: column;
+    }
+  }
+  

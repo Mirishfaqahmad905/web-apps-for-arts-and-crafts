@@ -1,0 +1,109 @@
+/* CSS for Admin Dashboard */
+@font-face {
+  font-family: 'Nestocope'; /* Replace 'MyFont' with a suitable name */
+  src: url('../Font/Nestocopper42-1GVw2.ttf') format('truetype'); /* Replace with the correct font file path */
+  /* You can specify other font formats (e.g., woff, woff2) if you have them */
+  font-weight: normal;
+  font-style: normal;
+}
+.container-product_payment_ {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+  
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 30px;
+  }
+  
+  /* Individual Container Styles */
+  .total_user,
+  .total-orders,
+  .total-products,
+  .total-payment {
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-family: 'Nestocope', sans-serif; 
+    
+    padding: 20px;
+    height: 360px;
+    width: 400px;
+    border-radius: 5px;
+    flex: 1;
+    margin-right: 10px;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .total-orders {
+    background-color: #e74c3c;
+  }
+  
+  .total-products {
+    background-color: #2ecc71;
+  }
+  
+  .total-payment {
+    background-color: #f1c40f;
+  }
+  
+  /* Hover Effect */
+  .total_user:hover {
+    background-color: #2980b9;
+  }
+  
+  .total-orders:hover {
+    background-color: #c0392b;
+  }
+  
+  .total-products:hover {
+    background-color: #27ae60;
+  }
+  
+  .total-payment:hover {
+    background-color: #f39c12;
+  }
+  
+  /* Styles for icons (you can replace with actual icon styles) */
+  .admin-icon {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for admin number */
+  .admin-number h4 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  /* Responsive Design */
+  @media screen and (max-width: 1200px) {
+    .container-product_payment_ {
+      padding: 20px;
+    }
+    .total_user,
+    .total-orders,
+    .total-products,
+    .total-payment {
+      width: calc(50% - 20px);
+      margin-bottom: 20px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .container-product_payment_ {
+      flex-direction: column;
+      align-items: center;
+    }
+    .total_user,
+    .total-orders,
+    .total-products,
+    .total-payment {
+      width: 100%;
+      margin-right: 0;
+    }
+  }
+  

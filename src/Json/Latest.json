@@ -1,0 +1,127 @@
+[
+    {
+      "product_name": "Smartphone X",
+      "price":699.23,
+       "quantaty":2,
+      "description": "Experience the latest technology with Smartphone X. Powerful features, stunning camera, and long-lasting battery.",
+      "image": "https://m.media-amazon.com/images/I/61k5imDfesL.__AC_SX300_SY300_QL70_FMwebp_.jpg ",
+      "reviews": [
+        {
+          "rating": 4.5,
+          "comment": "I'm loving this phone! The camera quality is amazing and it's so fast.",
+          "author": "user123"
+        },
+        {
+          "rating": 5.0,
+          "comment": "Best smartphone I've ever owned. The display is gorgeous.",
+          "author": "techGuru"
+        }
+      ]
+    },
+    {
+      "product_name": "UltraBook Pro X",
+      "price": 129,
+      "quantaty":2,
+      "description": "Experience unmatched performance with the UltraBook Pro X. Sleek design, powerful processor, and stunning display for productivity and entertainment.",
+      "image": "https://m.media-amazon.com/images/I/41hPbiXBsvL._SX300_SY300_QL70_FMwebp_.jpgp_.jpg",
+      "reviews": [
+        {
+          "rating": 4.9,
+          "comment": "This laptop is a beast! It handles all my tasks effortlessly, and the battery life is impressive.",
+          "author": "techSavvy"
+        },
+        {
+          "rating": 5.0,
+          "comment": "Worth every penny. The display is sharp, and it's so lightweight for its power.",
+          "author": "proDesigner"
+        }
+      ]
+    },    
+    {
+      "product_name": "Wireless Earbuds Pro",
+      "quantaty":2,
+      "price": 129.99,
+      "description": "Immerse yourself in music with our Wireless Earbuds Pro. Noise cancellation and premium sound quality.",
+      "image": "https://m.media-amazon.com/images/I/61J2bJ454iL._AC_SX425_.jpg",
+      
+      "reviews": [
+        {
+          "rating": 4.8,
+          "comment": "These earbuds exceeded my expectations. The noise cancellation works like magic.",
+          "author": "musicLover"
+        },
+        {
+          
+          "rating": 4.5,
+          "comment": "Great value for the price. Very comfortable to wear for long periods.",
+          "author": "activeUser"
+        }
+      ]
+    },
+    {
+      "product_name": "Fitness Tracker 3.0",
+      "quantaty":2,
+      "price": 45,
+      "description": "Achieve your fitness goals with our advanced Fitness Tracker 3.0. Monitor your activity, heart rate, and more.",
+      "image": "https://m.media-amazon.com/images/I/61bbxaYe3uL._AC_SX569_.jpg",
+      "reviews": [
+        {
+          "rating": 4.2,
+          "comment": "Helped me stay motivated on my fitness journey. The app is user-friendly.",
+          "author": "fitFreak"
+        },
+        {
+          "rating": 4.0,
+          "comment": "Accurate tracking and long battery life. Some additional exercise modes would be nice.",
+          "author": "healthEnthusiast"
+        }
+      ]
+    },
+    {
+      "product_name": "Fashionable Backpack",
+      "quantaty":2,
+      "price": 49,
+      "description": "Stay stylish and organized with our Fashionable Backpack. Multiple compartments and durable design.",
+      "image": "https://m.media-amazon.com/images/I/81oNZMFe6QL._AC_UY500_.jpg",
+      "reviews": [
+        {
+          "rating": 4.7,
+          "comment": "I love how this backpack combines style and functionality. Perfect for daily use.",
+          "author": "trendSetter"
+        },
+        {
+          "rating": 4.3,
+          "comment": "Comfortable to carry, and the USB charging port is a game changer.",
+          "author": "onTheGo"
+        }
+      ]
+    },
+    {
+      "product_name": "Cooking Masterclass Kit",
+      "price": 149,
+      "quantaty":2,
+      "description": "Unleash your inner chef with our Cooking Masterclass Kit. High-quality utensils, recipe book, and online tutorials.",
+      "image": "https://m.media-amazon.com/images/I/81dDLnZqsCL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "reviews": [
+        {
+          "rating": 5.0,
+          "comment": "Absolutely fantastic kit for beginners and experienced cooks alike. I'm learning so much!",
+          "author": "foodieChef"
+        },
+        {
+          "rating": 4.8,
+          "comment": "The utensils are top-notch. The recipe book has become my kitchen bible.",
+          "author": "culinaryExplorer"
+        }
+      ]
+    },
+    {
+      "id":10,
+       "product_name":"Waistcoat",
+        "image":"https://uniworthshop.com/product/takkhayul-1paj-018-2a",
+         "price":1400,
+          "rating":230,
+          "description":"erenity and exquisite brilliance. Add the perfect finishing touch to your ceremonial look in this Green waistcoat with off-white dark green motif embroidery. This premium quality wait coat features metallic off-white buttons for an enhanced surreal appeal."
+}
+  ]
+  

@@ -1,0 +1,18 @@
+/* Increase the width of the main modal container */
+.StripeCheckout {
+    width: 80%; /* You can adjust the width as needed */
+    max-width: 600px; /* Set a maximum width if desired */
+     background-color: yellow;
+  }
+  
+  /* Increase the height of the modal content container */
+  .StripeCheckout-outerContainer {
+    height: 80%; /* You can adjust the height as needed */
+    max-height: 400px; /* Set a maximum height if desired */
+  }
+  
+  /* Customize the modal overlay (background) */
+  .StripeCheckout-modalBackdrop {
+    background-color: rgba(0, 0, 0, 0.6); /* Adjust the overlay background color and transparency */
+  }
+  

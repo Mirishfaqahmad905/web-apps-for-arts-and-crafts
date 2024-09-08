@@ -1,0 +1,82 @@
+/* Footer Area */
+/* Footer Area */
+.footer-area {
+    padding: 40px 0;
+    background-color: #131a22; /* Dark background color */
+    color: #fff;
+    text-align: center;
+    margin-top: 100px;; /* Removed the unnecessary semicolon and set margin to 0 */
+  }
+  
+  
+  .footer-area a {
+    text-decoration: none;
+    color: #00cc00; /* Green color for links */
+    transition: color 0.3s ease;
+  }
+  
+  .footer-area a:hover {
+    color: #FF9900;
+  }
+  
+  .footer-area .footer-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .footer-area .footer-underline {
+    height: 2px;
+    width: 70px;
+    background-color: #ddd;
+    margin: 10px auto;
+  }
+  
+  /* Footer Navigation */
+  .footer-navigation {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  
+  .footer-navigation a {
+    margin: 0 15px;
+    color: #fff;
+    font-size: 14px;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-navigation a:hover {
+    color: #FF9900;
+  }
+  
+  /* Social Media Links */
+  .copyright-area{
+ background-color: #131a22;
+   }
+   .copyright-area p{
+     color: white;
+       font-weight: bold;
+   }
+  .social-media {
+ 
+     display: flex;
+      align-items: center;
+     background-color: #131a22;
+      color: white;
+       font-weight: bolder;
+
+  }
+  
+  .social-media a {
+    display: inline-block; /* Ensure icons are on a separate line */
+    margin: 0 15px;
+    color: rgb(57, 187, 189);
+    font-size: 28px; /* Increased font size for better visibility */
+    transition: color 0.3s ease;
+  }
+  
+  .social-media a:hover {
+    color: #FF9900;
+  }
+  

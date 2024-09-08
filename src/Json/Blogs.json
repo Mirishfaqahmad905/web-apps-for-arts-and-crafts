@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "img":"https://static-01.daraz.pk/p/c9c5cbf54354dbcbb615a8204f83f2e2.jpg_750x400.jpg_.webp",
+        "productName": "pakool",
+        "subTopicheader":"Shape and desing ",
+        "subTopicDescription":"The Pakol is a round, flat-topped, and brimless hat. It is typically made from wool and has a cylindrical shape, resembling a slightly flattened tube",
+        "productDescription": "A pakool, also known as a Chitrali cap, is a traditional headwear worn primarily by the people of Chitral, a region in the northern part of Pakistan. This distinctive cap has a unique design and has been an integral part of the local culture for centuries."
+    },
+    {
+        "id": 2,
+        "img":"https://tnnenglish.com/wp-content/uploads/2023/05/Dir-Cap-696x454.jpg",
+        "productName": "pathan traditional cap",
+        "subTopicheader":"Design and Appearance:",
+        "subTopicDescription":"The Pashtun cap has a unique design characterized by its flat, circular shape. It is typically made from wool, making it well-suited for the cold and mountainous regions where many Pashtuns live. The cap is often brown or earthy in color, and its simplicity is a reflection of the practical nature of Pashtun culture.",
+        "productDescription": "The Dir Topi, also known as the Diri Topi, is a traditional headwear originating from the Dir district in Khyber Pakhtunkhwa, Pakistan. Much like other traditional caps in the region, the Dir Topi carries cultural significance and is a symbol of identity and heritage."
+    }
+    ,{
+        "id":3,
+        "img":"https://pakhairraghlay.pk/wp-content/uploads/2021/04/2a.jpg",
+        "productName":"pathan traditional chapal",
+        "subTopicheader":"Design and Construction:",
+        "subTopicDescription":"  Design: Pathan traditional chapals typically feature a very simple and flat design. They consist of a sole, usually made of leather, and a set of leather straps that go over the foot. These straps are often interwoven and secured in place.",
+        "productDescription":"Peshawari Chapal, also known as Peshawari Chappal or Peshawari Sandals, is a traditional footwear style that originates from the Peshawar region in Khyber Pakhtunkhwa, Pakistan. These handcrafted sandals have a unique and distinctive design, making them a popular choice in both traditional and modern fashion."
+    },
+    {
+        "id":4,
+        "img":"https://i.ytimg.com/vi/KM2NDNQVa6s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCjqohhTIDDQHHBTEsbT8lr3hQxzQ",
+        "productName":"dir chaqo",
+        "subTopicheader":"Shape and desing ",
+        "subTopicDescription":"The Pashtun cap has a unique design characterized by its flat, circular shape. It is typically made from wool, making it well-suited for the cold and mountainous regions where many Pashtuns live. The cap is often brown or earthy in color, and its simplicity is a reflection of the practical nature of Pashtun culture.",
+        "productDescription":" A blog, short for weblog is a regularly updated online platform where individuals or organizations share their thoughts, information, or opinions on a specific topic or a range of subjects. Blogs often include text-based content but can also feature images, videos, and other media. They serve various purposes, such as providing information, expressing personal viewpoints, discussing hobbies, offering advice, and more. Blogs can be personal or professional, and they are commonly used to connect with and engage an audience The length of content for a blog post can vary widely depending on several factors, including the nature of the blog, the target audienceand the specific topic being discussed  However there are some general guidelines to consider:"
+    },
+    {
+         "id":5,
+         "img":"https://clipart-library.com/images/pi585rAMT.jpg",
+         "productName":"Rabab ",
+         "subTopicheader":"Design and Construction:",
+         "subTopicDescription":"Shape and Appearance: The Rabab typically has a resonating body, often made from a gourd or wood, with a membrane (usually made of animal skin) that serves as a soundboard. It has a long neck, which may be made of wood, and multiple strings.",
+         "productDescription":"The Rabab is a traditional musical instrument with a deep historical and cultural significance, particularly in Afghanistan, Pakistan, and the surrounding regions. It is a stringed instrument known for its distinct sound and unique design. Here's more information about the Rabab:"
+    }
+]

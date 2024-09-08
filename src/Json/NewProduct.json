@@ -1,0 +1,74 @@
+[
+    {
+      "product_name": "Smartphone X",
+       "quantaty":2,
+      "title": "Innovative Tech Gadget",
+      "image": "https://m.media-amazon.com/images/I/91EACAPLSqL._AC_SY355_.jpg",
+      "price": 20.99,
+      "rating": 4.8
+    },
+    {
+      "product_name": "Smart Home Hub Pro",
+      "quantaty":2,
+      "title": "Advanced Smart Home Device",
+      "image": "https://m.media-amazon.com/images/I/41tLwVK+u0S._SY355_.jpg",
+      "price": 3.00,
+      "rating": 4.5
+    },
+    {
+      "product_name": "Noise-Free Pro Headphones",
+      "quantaty":2,
+      "title": "Premium Noise-Canceling Headphones",
+      "image": "https://m.media-amazon.com/images/I/61ZpA2ZPXiL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "price": 49.99,
+      "rating": 4.9
+    },
+    {
+      "product_name": "FitPro 3.0",
+      "quantaty":2,
+      "title": "Next-Gen Fitness Tracker",
+      "image": "https://m.media-amazon.com/images/I/61u459FoIQL._AC_SX679_.jpg",
+      "price": 20,
+      "rating": 4.7
+    },
+    {
+      "product_name": "i phone 14 promax",
+      "quantaty":2,
+      "title": "iphone 14 promax smart camra ....",
+      "image": "https://m.media-amazon.com/images/I/61KqADKgByL._AC_SX425_.jpg",
+      "price": 29.99,
+      "rating": 4.6
+    },
+    {
+      "product_name": "SmartChef 2000",
+      "title": "Smart Kitchen Appliance",
+      "quantaty":2,
+      "image": "https://m.media-amazon.com/images/I/61+TVrElkSL._AC_SY300_SX300_.jpg",
+      "price": 40,
+      "rating": 5
+    },
+    {
+      "quantaty":2,
+      "product_name": "Fashionable Canvas Backpack",
+      "title": "Multi-Pocket Travel Bag",
+      "image": "https://m.media-amazon.com/images/I/71CWNt3SkuL._AC_SY450_.jpg",
+      "price": 32,
+      "rating": 4.5
+    },
+    {
+      "product_name": "LED Solar Garden Lights",
+      "title": "Outdoor Waterproof Path Lights",
+      "image": "https://m.media-amazon.com/images/I/71XK7dAv7qL.__AC_SY445_SX342_QL70_FMwebp_.jpg",
+      "price": 19.99,
+      "quantaty":2,
+      "rating": 4.6
+    },
+    {
+      "product_name": "LED Solar Garden Lights",
+      "title": "Outdoor Waterproof Path Lights",
+      "image": "https://m.media-amazon.com/images/I/71XK7dAv7qL.__AC_SY445_SX342_QL70_FMwebp_.jpg",
+      "price": 19.99,
+      "quantaty":2,
+      "rating": 4.6
+    }
+]
